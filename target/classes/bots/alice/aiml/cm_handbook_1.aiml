@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+<category>
+   <pattern>Hi^</pattern>
+   <template>
+      Hi, How may I help you.
+   </template>
+</category>
+<category>
+   <pattern>what is you name</pattern>
+   <template>
+      My name is HR-bot and my mission is to assist you.
+   </template>
+</category>
+<category>
+   <pattern>help</pattern>
+   <template>
+	You can ask me below:
+      working hours pattern
+	  interview rounds
+	  privilege leaves
+	  casual leaves
+	  $sick leave
+	  medical leave
+	  Marriage leave
+	  Maternity leave
+	  Paternity leave
+	  wedding gift elegibility
+	  exit policy for revocking resignation
+	  minimum qualification to be recruted
+	  selection process
+	  Standard work hours
+   </template>
+</category>
+<category>
+   <pattern>working hours pattern</pattern>
+   <template>
+      Standard Work Hours and Custom (Flexi) Hours.
+   </template>
+</category>
+<category>
+   <pattern>interview rounds</pattern>
+   <template>
+      Totally 4 rounds, HR screening, Suitable test, Technical Interview, Discussion on salary with HR.
+   </template>
+</category>
+<category>
+   <pattern>privilege leaves</pattern>
+   <template>
+     one and a half day per month form jul to dec. Totally 9 days.
+   </template>
+</category>
+<category>
+   <pattern>casual leaves</pattern>
+   <template>
+      a day per month from jan to jun totally 6 days.
+   </template>
+</category>
+<category>
+   <pattern>medical leave</pattern>
+   <template>
+      20 days per year.
+   </template>
+</category>
+<category>
+   <pattern>Marriage leave</pattern>
+   <template>
+      7 days.
+   </template>
+</category>
+<category>
+   <pattern>Maternity leave</pattern>
+   <template>
+      26 weeks.
+   </template>
+</category>
+<category>
+   <pattern>Paternity leave</pattern>
+   <template>
+      4 days.
+   </template>
+</category>
+<category>
+   <pattern>wedding gift elegibility</pattern>
+   <template>
+      Below 5yrs– Rs.2,500/-, >5yrs – Rs.5,000/-.
+   </template>
+</category>
+<category>
+   <pattern>exit policy for revocking resignation</pattern>
+   <template>
+      To revoke resignation, employee has to decide to continue service with codemantra for a period of 1 year from his/her date of resignation.
+   </template>
+</category>
+<category>
+   <pattern>minimum qualification to be recruted</pattern>
+   <template>
+      Minimum Diploma / Graduate degree is must for any position in CMPL.
+   </template>
+</category>
+<category>
+   <pattern>selection process</pattern>
+   <template>
+      Interviews, Tests, Reference check.
+   </template>
+</category>
+<category>
+   <pattern>Standard work hours</pattern>
+   <template>
+      General shift 9:30 a.m. 6:30 p.m. All employees
+First shift 6:30 a.m. 2:00 p.m. All employees
+Second shift 2:00 p.m. 9:30 p.m. All employees
+Night shift 9:30 p.m. 6:30 a.m. All employees
+Executive shift 11:00 a.m. 8:00 p.m. For Managers and Key staffs
+   </template>
+</category>
+</aiml>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+<category>
+   <pattern>working hours pattern</pattern>
+   <template>
+      Standard Work Hours and Custom (Flexi) Hours
+   </template>
+</category>
+<category>
+	<pattern>^ leave Types ^</pattern>
+	<template>
+		Available Leave Types
+		1. Casual Leave.
+		2. Sick Leave.
+		3. Privilege Leave.
+		4. Medical Leave.
+		Enter your choice to know more
+	</template>
+</category>
+<category>
+</category>
+</aiml>
